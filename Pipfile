@@ -9,6 +9,8 @@ telebot = "*"
 python-telegram-bot = "*"
 kitano = "*"
 python-dotenv = "*"
+tubemp3 = "*"
+rocketlc = "*"
 
 [dev-packages]
 
